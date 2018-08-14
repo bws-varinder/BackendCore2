@@ -1,0 +1,16 @@
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.deps.json
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.runtimeconfig.json
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.runtimeconfig.dev.json
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.dll
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\BackendCore.pdb
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\DataRepository.dll
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\System.Web.Http.dll
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\System.Net.Http.Formatting.dll
+D:\Angular6\BackendCore\BackendCore\BackendCore\bin\Debug\netcoreapp2.0\DataRepository.pdb
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.csprojAssemblyReference.cache
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.csproj.CoreCompileInputs.cache
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.AssemblyInfoInputs.cache
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.AssemblyInfo.cs
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.csproj.CopyComplete
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.dll
+D:\Angular6\BackendCore\BackendCore\BackendCore\obj\Debug\netcoreapp2.0\BackendCore.pdb
